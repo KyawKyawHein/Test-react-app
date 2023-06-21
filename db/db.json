@@ -1,0 +1,58 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "hetero226@gmail.com",
+      "password": 123
+    },
+    {
+      "name": "ji",
+      "email": "ji",
+      "password": "ji",
+      "confirmPassword": "ji",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "email": "abc",
+      "password": "abc",
+      "confirmPassword": "abc",
+      "id": 3
+    },
+    {
+      "name": "kyaw g",
+      "email": "hetero226@gmail.com",
+      "password": "kyawkyawhein",
+      "confirmPassword": "kyawkyawhein",
+      "id": 4
+    },
+    {
+      "name": "bb",
+      "email": "bb",
+      "password": "bb",
+      "confirmPassword": "bb",
+      "id": 5
+    },
+    {
+      "name": "aa",
+      "email": "aa",
+      "password": "aa",
+      "confirmPassword": "aa",
+      "id": 6
+    },
+    {
+      "id": 1687001852367,
+      "name": "aoc",
+      "email": "aoc",
+      "password": "aoc",
+      "confirmPassword": "aoc"
+    },
+    {
+      "id": 1687005898966,
+      "name": "Kyaw Kyaw Hein",
+      "email": "abc@gmail.com",
+      "password": "kyawkyawhein",
+      "confirmPassword": "kyawkyawhein"
+    }
+  ]
+}
